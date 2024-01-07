@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portfolio</title>
+        <style>
+        body {
+            background-color:pink;
+            color:white;
+        }   
+        li a {
+            display: block;
+            width; 60px;
+        }
+        h1 {
+            color:blue;
+        }
+        h2 {
+            text-align: right;
+        }
+        li {
+            color:white;
+        }
+        
+        nav {
+		background-color: white;
+		opacity: .5;
+		position: relative;
+        width: 35%;
+        height: 20%; 
+    	}
+    
+        nav {
+        border-width: 4px;
+        border-color: red;
+        border-style: dashed;
+        }
+        
+        a {
+        color: blue;
+        }
+        
+        a:visited {
+        color: red;
+        }
+        
+        a:hover {
+        color: green;
+        }
+        </style>
+    </head>
+
+    <body>
+       <h1>🎉 Aziza's Portfolio 🎉</h1>
+        <ol>
+         <li> <a href="myfirstwebpage.html"> My First Webpage</a></li>
+         <li><a href="paragraphs.html">Paragraphs</a></li>
+         <li><a href="formattingElements.html">Formatting Elements</a></li>
+         <li><a href="lists.html">Lists</a></li>
+         <li><a href="links.html">Links</a></li>
+        <li><a href="images.html">Images</a></li>
+        <li><a href="tables.html">Tables</a></li>
+        <li><a href="multimedia.html">Multimedia</a></li>
+        <li><a href="css2backgroundimages.html">CSS#2</a></li>
+        <li><a href="css3grinch.html">CSS#3</a></li>
+       <li><a href="css4navmenu.html">CSS#4</a></li>
+        <li><a href="css6.html">CSS#6</a></li>
+      <img src= "https://media.istockphoto.com/id/1205312417/vector/yay-hand-lettering-text.jpg?s=612x612&w=0&k=20&c=yb0IbQb4e5ZZGa4VpFrBOS7ir2m1KY-f9oY7aw36KvY=" alt="yay" width="450px" height="250px"></li>
+    </ol>
+    </body>
+</html>
